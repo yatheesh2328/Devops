@@ -1,4 +1,6 @@
 #!/bin/bash
+echo $1 $2
+echo $num1
 echo "Enter the value of a:"
 read a
 echo "Enter the value of b:"
