@@ -1,10 +1,8 @@
 #!/bin/bash
-echo $1 $2
-echo $num1
-echo "Enter the value of a:"
-read a
-echo "Enter the value of b:"
-read b
+#echo "Enter the value of a:"
+#read a
+#echo "Enter the value of b:"
+#read b
 if [ $a -lt $b ]
 then
 	echo "The value of a is smaller than b"
