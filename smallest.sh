@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #echo "Enter the value of a:"
 #read a
 #echo "Enter the value of b:"
